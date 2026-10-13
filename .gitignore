@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS / OS artifacts
+.DS_Store
+Thumbs.db
